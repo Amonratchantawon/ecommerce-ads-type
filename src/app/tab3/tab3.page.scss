@@ -1,1 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Lato');
+.header{
+    --ion-background-color:#F5F6F8;
+}
+img{
+    border-radius: 66%;
+}
 
+ion-grid{
+    padding: 26px;
+}
+.name-title{
+    font-family: 'Anton', sans-serif;
+    color: #515C6F;
+    margin-top: 8px;
+}
+.col-8{
+    padding-left: 21px;
+}
+p{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-family: 'Lato', sans-serif;
+    color: #515C6F;
+}
+
+ion-button{
+    height: 26%;
+    width: 65%;
+    color: #515C6F;
+    --border-color: #727C8E;
+    font-family: 'Lato', sans-serif;
+}
+ion-label{
+    margin-left: 10px;
+}
+ion-card{
+    --ion-background-color: white;
+}
